@@ -1,83 +1,25 @@
-# angular-portfolio-v1
+# Angular Portfolio V1
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-## 🚀 Tech Stack
-
+## 📝 Description
 - Angular
-- TypeScript
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: Node.js
 
-- Modern and scalable architecture
-- Type-safe development with TypeScript
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/angular-portfolio-v1.git
-cd angular-portfolio-v1
-
-# Install dependencies
-npm install
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Production mode
-npm start
-
-# Build for production
-npm run build
-
-# Run tests
-npm test
-```
-
-## 📜 Available Scripts
-
-- `npm run ng` - ng
-- `npm run start` - ng serve
-- `npm run build` - ng build
-- `npm run test` - ng test
-- `npm run lint` - ng lint
-- `npm run e2e` - ng e2e
-
-## 📁 Project Structure
-
-```
-angular-portfolio-v1/
-├── src/
-├── package.json
-├── tsconfig.json
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/angular-portfolio-v1.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd angular-portfolio-v1
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
