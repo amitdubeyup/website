@@ -1,8 +1,8 @@
-# website
+# angular-portfolio-v1
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## 🚀 Tech Stack
 
@@ -18,8 +18,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/website.git
-cd website
+git clone https://github.com/amitdubeyup/angular-portfolio-v1.git
+cd angular-portfolio-v1
 
 # Install dependencies
 npm install
@@ -60,7 +60,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-website/
+angular-portfolio-v1/
 ├── src/
 ├── package.json
 ├── tsconfig.json
