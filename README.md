@@ -1,28 +1,83 @@
-# Portfolio
+# website
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
-## Development server
+## 🚀 Tech Stack
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Angular
+- TypeScript
 
-## Code scaffolding
+## ✨ Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+- Modern and scalable architecture
+- Type-safe development with TypeScript
 
-## Build
+## 📦 Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+```bash
+# Clone the repository
+git clone https://github.com/amitdubeyup/website.git
+cd website
 
-## Running unit tests
+# Install dependencies
+npm install
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## ⚙️ Configuration
 
-## Running end-to-end tests
+Create a `.env` file in the root directory:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+```bash
+cp .env.example .env
+```
 
-## Further help
+Update the `.env` file with your configuration values.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## 🚀 Usage
+
+```bash
+# Production mode
+npm start
+
+# Build for production
+npm run build
+
+# Run tests
+npm test
+```
+
+## 📜 Available Scripts
+
+- `npm run ng` - ng
+- `npm run start` - ng serve
+- `npm run build` - ng build
+- `npm run test` - ng test
+- `npm run lint` - ng lint
+- `npm run e2e` - ng e2e
+
+## 📁 Project Structure
+
+```
+website/
+├── src/
+├── package.json
+├── tsconfig.json
+├── .env.example
+├── README.md
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Amit Dubey**
+
+- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
